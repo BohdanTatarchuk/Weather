@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Weather Beta</string>
+
+    <!--Images-->
+    <string name="image_describe_search_bar"> Search Bar</string>
+    <string name="img_describe_wind">Wind image</string>
+    <string name="img_describe_pressure">Pressure image</string>
+    <string name="img_describe_humidity">Humidity image</string>
+    <string name="img_describe_welcome">Human</string>
+
+    <!--Purple block-->
+    <string name="search">Type your city here</string>
+    <string name="button">Search</string>
+    <string name="clear_sky">Clear sky</string>
+    <string name="feels_like">Feels like</string>
+    <string name="feels_like_num">7</string>
+    <string name="toast">Type your city!</string>
+    <string name="degree">°</string>
+    <string name="temperature">6</string>
+
+    <!--White block-->
+    <string name="details">More details</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind_num">15</string>
+    <string name="humidity_num">73</string>
+    <string name="pressure_num">1085</string>
+    <string name="wind_symb">m/s</string>
+    <string name="humidity_symb">%</string>
+    <string name="pressure_symb">mbar</string>
+
+    <!--Welcome page-->
+    <string name="main_text">Check weather</string>
+    <string name="main_text2">everywhere</string>
+    <string name="search_button">Show weather</string>
+</resources>

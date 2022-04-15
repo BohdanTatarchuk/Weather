@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">780px</dimen>
+    <dimen name="font_size">500px</dimen>
+    <dimen name="second_font_size">100px</dimen>
+    <dimen name="third_font_size">50px</dimen>
+    <dimen name="details">17dp</dimen>
+    <dimen name="detail_number">25dp</dimen>
+    <dimen name="welcome">40dp</dimen>
+</resources>
